@@ -1,0 +1,15 @@
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\bin\Debug\net6.0\Mission2.exe
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\bin\Debug\net6.0\Mission2.deps.json
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\bin\Debug\net6.0\Mission2.runtimeconfig.json
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\bin\Debug\net6.0\Mission2.dll
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\bin\Debug\net6.0\Mission2.pdb
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\obj\Debug\net6.0\Mission2.csproj.AssemblyReference.cache
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\obj\Debug\net6.0\Mission2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\obj\Debug\net6.0\Mission2.AssemblyInfoInputs.cache
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\obj\Debug\net6.0\Mission2.AssemblyInfo.cs
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\obj\Debug\net6.0\Mission2.csproj.CoreCompileInputs.cache
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\obj\Debug\net6.0\Mission2.dll
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\obj\Debug\net6.0\refint\Mission2.dll
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\obj\Debug\net6.0\Mission2.pdb
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\obj\Debug\net6.0\Mission2.genruntimeconfig.cache
+D:\Учеба\Знакомство с языками программирования\Знакомство с языками программирования (семинары)\Lesson5\Mission2\obj\Debug\net6.0\ref\Mission2.dll
